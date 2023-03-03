@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TestTEst",
+			"Path": "C:\\Users\\Samwoo\\Desktop\\Unreal\\TestTEst\\Source\\TestTEst.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TestTEstEditor",
+			"Path": "C:\\Users\\Samwoo\\Desktop\\Unreal\\TestTEst\\Source\\TestTEstEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
