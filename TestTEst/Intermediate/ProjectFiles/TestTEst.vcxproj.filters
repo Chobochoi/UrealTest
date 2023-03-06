@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestTEst.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7DB857E1-77C7-4FEE-8247-605CB9D82362}</UniqueIdentifier>
+      <UniqueIdentifier>{71BD3FEF-374E-41E5-9BB2-A63ED5AC153F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestTEst.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{9D73C842-4727-4DD9-B609-87A2E9E15705}</UniqueIdentifier>
+      <UniqueIdentifier>{142C3768-39BE-41A2-A3D1-9581C4AF930A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,9 +23,24 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\TestTEst">
-      <UniqueIdentifier>{8D8BBCAE-AA19-4994-9359-AC90206D3629}</UniqueIdentifier>
+      <UniqueIdentifier>{B7FCD1E9-A981-40D5-B657-69E0C5820DBF}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TestTEst\MyCharacter.cpp">
+      <Filter>Source\TestTEst</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTEst\MyCharacter.h">
+      <Filter>Source\TestTEst</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTEst\MyPlayerController.cpp">
+      <Filter>Source\TestTEst</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTEst\MyPlayerController.h">
+      <Filter>Source\TestTEst</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TestTEst\TestTEst.Build.cs">
       <Filter>Source\TestTEst</Filter>
     </None>
