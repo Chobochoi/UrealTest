@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TestTEst.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{71BD3FEF-374E-41E5-9BB2-A63ED5AC153F}</UniqueIdentifier>
+      <UniqueIdentifier>{DAD0C5BA-F749-4EF1-A98F-B472DE3FAC6F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TestTEst.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{142C3768-39BE-41A2-A3D1-9581C4AF930A}</UniqueIdentifier>
+      <UniqueIdentifier>{1F96B1E9-66E7-4D13-871A-3E6896821456}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TestTEst">
-      <UniqueIdentifier>{B7FCD1E9-A981-40D5-B657-69E0C5820DBF}</UniqueIdentifier>
+      <UniqueIdentifier>{C081F31D-87CE-4183-BA3D-37CF1117A7B3}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TestTEst\MyCharacter.cpp">
       <Filter>Source\TestTEst</Filter>
@@ -54,6 +54,12 @@
       <Filter>Source\TestTEst</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TestTEst\TestTEstGameModeBase.h">
+      <Filter>Source\TestTEst</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestTEst\ULineActor.cpp">
+      <Filter>Source\TestTEst</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestTEst\ULineActor.h">
       <Filter>Source\TestTEst</Filter>
     </ClInclude>
   </ItemGroup>
